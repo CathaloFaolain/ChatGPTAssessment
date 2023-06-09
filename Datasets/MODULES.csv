@@ -1,0 +1,525 @@
+﻿Code,Module,School
+DSCY10060,"Energy, Climate Change & Policy",EEE
+EEEN10010,Electronic and Electrical Engineering I,EEE
+EEEN10020,Robotics Design Project,EEE
+EEEN20010,Computer Engineering,EEE
+EEEN20020,Electrical and Electronic Circuits,EEE
+EEEN20030,Electromagnetic Fields,EEE
+EEEN20040,Electronic Circuits,EEE
+EEEN20050,Digital Electronics: from gate to system,EEE
+EEEN20060,Communication Systems,EEE
+EEEN20070,Solid State Devices,EEE
+EEEN20090,Electrical Energy Systems,EEE
+EEEN30020,Circuit Theory,EEE
+EEEN30030,Electromagnetic Waves,EEE
+EEEN30050,Signal Processing: Theory and Applications,EEE
+EEEN30060,Communication Theory,EEE
+EEEN30070,Power System Engineering,EEE
+EEEN30090,Electrical Machines,EEE
+EEEN30110,Signals and Systems,EEE
+EEEN30120,Analogue Electronics,EEE
+EEEN30150,Modelling and Simulation,EEE
+EEEN30160,Biomedical Signal Processing,EEE
+EEEN30180,Bioinstrumentation,EEE
+EEEN30190,Digital System Design,EEE
+EEEN30220,Prof Eng Project (Electrical),EEE
+EEEN30230,Professional Engineering Project (Electronic),EEE
+EEEN30240,Professional Biomed Project,EEE
+EEEN40010,Control Theory,EEE
+EEEN40050,Wireless Systems,EEE
+EEEN40060,Digital Communications,EEE
+EEEN40070,Neural Engineering,EEE
+EEEN40080,Power System Operation,EEE
+EEEN40090,Power System Design,EEE
+EEEN40100,Power Electronics and Drives,EEE
+EEEN40110,Renewable Energy Systems,EEE
+EEEN40120,Applications of Power Electronics,EEE
+EEEN40130,Advanced Signal Processing,EEE
+EEEN40150,Radio-Frequency Electronics,EEE
+EEEN40160,ME Biomed Prof Work Exp Short,EEE
+EEEN40170,ME Biomed Prof. Work Exp. Long,EEE
+EEEN40180,ME Electrical Power Professional Work Experience (short),EEE
+EEEN40190,ME Electrical Power Professional Work Experience (long),EEE
+EEEN40200,ME Prof. Work Exp. (Short),EEE
+EEEN40210,ME Prof. Work Exp. (Long),EEE
+EEEN40220,ME Biomed Project,EEE
+EEEN40240,ME Elec&Comp Eng Project,EEE
+EEEN40260,ME Electrical Project,EEE
+EEEN40280,Digital & Embedded Systems,EEE
+EEEN40290,MEngSc Project,EEE
+EEEN40300,Entrepreneurship in Engineering,EEE
+EEEN40310,Power Electronics Technology ,EEE
+EEEN40350,Rehabilitation Engineering,EEE
+EEEN40360,ME Elect Energy Project,EEE
+EEEN40550,Power System Dynamics and Control,EEE
+EEEN40570,Analogue Integrated Circuits,EEE
+EEEN40580,Optimisation Techniques for Engineers,EEE
+EEEN40600,Mixed-Signal Integrated Circuits,EEE
+EEEN40620,Biomedical Imaging,EEE
+EEEN40630,Optical Engineering ,EEE
+EEEN40650,ME Project (Optical),EEE
+EEEN40660,Experimental Design and Statistics for Engineers,EEE
+EEEN40670,MEngSc Optical Project,EEE
+EEEN40680,Intro. to Quantum Computing,EEE
+EEEN40700,MEngSc Electrical Project,EEE
+EEEN40710,Engineering Research Skills & Pedagogy,EEE
+EEEN50070,Industrial Research I,EEE
+EEEN50080,Industrial Research II,EEE
+CVEN10040,Creativity in Design,CE
+CVEN10050,Intro to Civil & Envir Eng,CE
+CVEN10060,The Engineering and Architecture of Structures 1,CE
+CVEN20010,Mechanics of Solids,CE
+CVEN20030,Environmental Engineering Fundamentals,CE
+CVEN20040,The Engineering & Architecture of Structures 2,CE
+CVEN20070,Computer Applications in Civil Engineering,CE
+CVEN20080,Construction Materials,CE
+CVEN20110,Geotechnics 1,CE
+CVEN20120,Construction Practice,CE
+CVEN20130,Hydraulics I,CE
+CVEN20140,Design and Communications,CE
+CVEN30010,Geotechnics 2,CE
+CVEN30020,Analysis of Structures 1,CE
+CVEN30040,Design of Structures 1,CE
+CVEN30060,Hydraulics II,CE
+CVEN30090,Professional Engineering for Civil and Structural Engineers,CE
+CVEN30100,The Engineering and Architecture of Structures 3,CE
+CVEN30110,Introduction to Transportation and Traffic Engineering,CE
+CVEN30160,Group Design Project,CE
+CVEN30170,Analysis of Structures 2,CE
+CVEN30380,Group Design Project,CE
+CVEN30390,Group Design Project 1,CE
+CVEN30400,Group Design Project 2,CE
+CVEN40050,Design of Structures 3,CE
+CVEN40060,Transport Modelling,CE
+CVEN40070,Water & Wastewater Treatment Processes,CE
+CVEN40080,Hydraulic Engineering Design,CE
+CVEN40120,Bridge Engineering,CE
+CVEN40130,Work Placement,CE
+CVEN40190,Engineering Report,CE
+CVEN40210,Geotechnics 4,CE
+CVEN40220,Introduction to Water Resources Engineering 1,CE
+CVEN40250,Specialist Studies IB,CE
+CVEN40360,Specialist Studies 1B,CE
+CVEN40380,Specialist Studies 3B,CE
+CVEN40390,Innovation Leadership,CE
+CVEN40500,Engineering Design Project,CE
+CVEN40550,Structural Dynamics,CE
+CVEN40570,Water Waste and Environmental Modelling,CE
+CVEN40590,Environmental Research Project,CE
+CVEN40600,Structural Research Project,CE
+CVEN40610,Advanced Materials,CE
+CVEN40620,Water Resources Eng 1 ,CE
+CVEN40690,Civil Engineering Systems,CE
+CVEN40710,Highway Engineering,CE
+CVEN40720,Geotechnics 3,CE
+CVEN40730,Professional Work Experience,CE
+CVEN40750,Engineering Research Project,CE
+CVEN40760,Case Studies,CE
+CVEN40770,Analysis of Structures 3,CE
+CVEN40780,Design of Structures 2,CE
+CVEN40790,Structural Research Proj,CE
+CVEN40800,Environmental Research Proj,CE
+CVEN40810,Engineering Report 2,CE
+CVEN40820,Engineering Report 1,CE
+CVEN40830,Applied Hydrology,CE
+CVEN40840,Sustainable and Nature Based Water Infrastructure,CE
+CHEN10010,Chemical Engineering Process Principles,CBE
+CHEN10040,Intro. to Eng. Computing,CBE
+CHEN20020,Chemical & Bioprocess Engineering Measurement,CBE
+CHEN20030,Chemical Engineering Thermodynamics & Kinetics,CBE
+CHEN20050,Bioprocess Engineering Principles,CBE
+CHEN20060,Transport Phenomena,CBE
+CHEN20070,Computers in Chemical & Bioprocess Engineering,CBE
+CHEN20080,Chemical & Bioprocess Engineering Laboratory 1,CBE
+CHEN20090,Biotechnology Principles,CBE
+CHEN30010,Chemical & Bioprocess Reaction Engineering,CBE
+CHEN30020,Unit Operations,CBE
+CHEN30030,Chemical & Bioprocess Engineering Thermodynamics,CBE
+CHEN30040,Commercial Pharmaceutical & Bioprocessing Technology,CBE
+CHEN30130,Heat Transfer and Fluid Mechanics,CBE
+CHEN30150,Chemical & Bioprocess Engineering Design,CBE
+CHEN30200,Chem & Bioprocess Eng Design,CBE
+CHEN30210,Chem & Bioprocess Eng Lab 2,CBE
+CHEN30240,Biochemical Engineering Lab 1,CBE
+CHEN30250,Biochemical Engineering Lab 2,CBE
+CHEN40010,Environmental Engineering,CBE
+CHEN40020,Principles of Biopharmaceutical Engineering (FT),CBE
+CHEN40040,Animal Cell Culture Technology (FT),CBE
+CHEN40060,Bioreactor Modelling and Control,CBE
+CHEN40090,Bioprocessing Laboratory,CBE
+CHEN40110,Facility Design and Operation,CBE
+CHEN40120,Biopharmaceutical Industry Regulation and Management,CBE
+CHEN40130,Bioprocess Scale-up and Technology Transfer,CBE
+CHEN40140,Biopharmaceutical Engineering Project,CBE
+CHEN40150,Advanced Separation Processes,CBE
+CHEN40160,Advanced Heat Transfer and Fluid Mechanics,CBE
+CHEN40200,Chemical & Bioprocess Engineering Research Project,CBE
+CHEN40210,Advanced Experimental Design,CBE
+CHEN40440,Chem Proc Sust & Ren Energy,CBE
+CHEN40450,Chemical Engineering Project,CBE
+CHEN40460,Downstream Processing,CBE
+CHEN40470,Cell Culture & Tissue Eng,CBE
+CHEN40480,Lean Sigma Biopharma Process,CBE
+CHEN40490,Teaching Assistant in CBE,CBE
+CHEN40510,Advanced Characterisation Tech,CBE
+CHEN40530,Bioprocess Design,CBE
+CHEN40540,CBE Research Methods,CBE
+CHEN40550,CBE Work Placement 2,CBE
+CHEN40560,Process Control,CBE
+CHEN40570,Chemical & Bioproc Systems Eng,CBE
+CHEN40580,CBE Work Placement 1,CBE
+CHEN40590,ME CBE Research Project,CBE
+CHEN40610,Applied Chemistry: Selected Frontier areas,CBE
+CHEN40620,Advanced Process Design,CBE
+CHEN40630,Bioanalytical Science for Biopharma,CBE
+CHEN40640,Commissioning & Qualification,CBE
+CHEN40650,Research Methodologies,CBE
+CHEN40660,CBE Business Plan,CBE
+CHEN40670,Biotechnology & Biopharma,CBE
+CHEN40680,CBE Work Placement Log Book,CBE
+CHEN40690,CBE Work Placement Knowledge,CBE
+CHEN40700,Adv. CBE Work Place. Knowledge,CBE
+CHEN40710,Downstream Processing & Sterile Fill Finish (PT),CBE
+CHEN40720,Principles of Biopharmaceutical Engineering (PT),CBE
+CHEN40730,Animal Cell Culture Technology (PT),CBE
+CHEN40740,CBE Work Placement I,CBE
+CHEN40750,CBE Work Placement II,CBE
+CHEN40760,Research Methods in CBE,CBE
+CHEN40770,Data Sci for Biopharm Manufact,CBE
+CHEN40790,Bio-material Interactions,CBE
+CHEN40810,Nanomaterials,CBE
+CHEN50050,Research Seminar Series II,CBE
+CHEN50060,Industrial Research Placement,CBE
+BSEN10010,Biosystems Engineering Design Challenge,BFE
+BSEN20010,Engineering and Surveying,BFE
+BSEN20040,Biosystems Engineering Research Trends,BFE
+BSEN20060,Food Physics,BFE
+BSEN20150,Agricultural Engineering Principles,BFE
+BSEN20170,Applied Programming for Agricultural Technology,BFE
+BSEN30010,Bioprocess Engineering Principles,BFE
+BSEN30020,Buildings and Environment,BFE
+BSEN30030,Air Pollution,BFE
+BSEN30060,Quantitative Risk Assessment for Human and Animal Health,BFE
+BSEN30170,Agricultural Mechanisation: Engines and Crop Machinery,BFE
+BSEN30190,Agricultural Mechanisation: Hydraulics and components,BFE
+BSEN30210,Precision Agriculture,BFE
+BSEN30240,Waste Management,BFE
+BSEN30280,Water and Wastewater Engineering,BFE
+BSEN30310,"The Bioeconomy; A strategy for sustainable fuel, material and chemical production",BFE
+BSEN30320,Food Process Engineering,BFE
+BSEN30360,Life Cycle Assessment,BFE
+BSEN30390,Experimental Project,BFE
+BSEN30400,Experimental Project (Short),BFE
+BSEN30510,Professional Work Experience,BFE
+BSEN30520,Sensors and Sensing Systems,BFE
+BSEN30530,Numerical Methods for Agricult,BFE
+BSEN30540,Bioeconomy Feedstocks O/L,BFE
+BSEN30550,Engineering Research Project,BFE
+BSEN40020,Advanced Food Process Engineering,BFE
+BSEN40090,Thesis,BFE
+BSEN40110,Advanced Air Pollution,BFE
+BSEN40210,Green Technologies Project,BFE
+BSEN40230,ME Professional Work Experience,BFE
+BSEN40250,Global Cold Chain Safety,BFE
+BSEN40320,Waste to Energy Processes & Technologies,BFE
+BSEN40350,Renewable Energy Systems Analysis,BFE
+BSEN40400,LCA Applications,BFE
+BSEN40410,Food Chain Integrity,BFE
+BSEN40420,Advanced Risk Assessment,BFE
+BSEN40440,Food Refrigeration Engineering,BFE
+BSEN40460,Research and Teaching Methods,BFE
+BSEN40470,Predictive Modelling and Risk Assessment,BFE
+BSEN40480,Sustainable Energy & Environment,BFE
+BSEN40490,Developments in Food Safety,BFE
+BSEN40500,Hyperspectral imaging ,BFE
+BSEN40510,Precision Livestock Management,BFE
+BSEN40520,Optical Sensing Technology,BFE
+BSEN40550,Capstone Project 2,BFE
+BSEN40560,Biorefinery Process & Tech,BFE
+BSEN40570,Capstone Project 1,BFE
+BSEN40580,ME Professional Work Experienc,BFE
+BSEN40590,Unit Ops for Bioprocess Eng,BFE
+BSEN40600,Bioeconomy Research Project 1,BFE
+BSEN40610,Bioeconomy Research Project 2,BFE
+BSEN40620,Biorefinery Process & Tech O/L,BFE
+BSEN40640,Conv Valorisation Technol O/L,BFE
+BSEN40660,Biobased Value Chains,BFE
+BSEN40690,Research Skills,BFE
+BSEN40700,Energy System & Sustainable Environments,BFE
+BSEN40710,ME Biosystems Engineering Thesis,BFE
+BSEN40720,Carbon & Sustainability,BFE
+BSEN40730,Innovative Food Proc & Tech,BFE
+BSEN40740,Soil Technology,BFE
+BSEN40760,Computers & Electronics in Ag,BFE
+BSEN40780,Remote Sensing and GIS,BFE
+BSEN40790,Carbon & Sustainability,BFE
+BSEN40800,Industry Project,BFE
+BSEN40810,GHG Accounting,BFE
+ARCT10010,Architectural Design I,APEP
+ARCT10020,Architectural Design II,APEP
+ARCT10030,Architecture & its Environment,APEP
+ARCT10040,Architectural Technologies I â€“ Introduction to Building Envelope,APEP
+ARCT10070,Survey I: History and Theory of the Built Environment I,APEP
+ARCT10090,Perspectives: History and Theory of the Built Environment II,APEP
+ARCT10120,Into Practice,APEP
+ARCT20010,Architectural Design IV,APEP
+ARCT20020,The Indoor Environment,APEP
+ARCT20040,History & Theory of the Designed Environment III,APEP
+ARCT20050,Architectural Design III,APEP
+ARCT20100,Architectural Technologies II  â€“ Building Frames and Skins,APEP
+ARCT20130,Imagining Architecture,APEP
+ARCT20170,Intro to Computational Design,APEP
+ARCT20570,Enhancing Digital Drawing Skills,APEP
+ARCT30010,Architectural Design V,APEP
+ARCT30030,History & Theory of the Designed Environment IV,APEP
+ARCT30040,Architectural Design VI,APEP
+ARCT30090,Building Renovation and Energy Retrofit / Architectural Technologies III,APEP
+ARCT30100,Architectural Technologies IV  â€“ Integrated Building Process,APEP
+ARCT30130,Framework for Practice,APEP
+ARCT40010,Design Technologies I,APEP
+ARCT40020,Research & Innovation in the Designed Environment,APEP
+ARCT40030,Realising Built Projects,APEP
+ARCT40050,Architectural Design VIII,APEP
+ARCT40080,Research and Innovation in the Designed Environment II,APEP
+ARCT40090,Procurement & Contracts,APEP
+ARCT40100,Case Study,APEP
+ARCT40110,Practical Experience,APEP
+ARCT40130,Architectural Practice,APEP
+ARCT40140,Construction Legislation,APEP
+ARCT40170,"Conservation History, Theory and Policy",APEP
+ARCT40180,Urban Design Theory (UDT),APEP
+ARCT40190,Professional Studies II,APEP
+ARCT40260,Urban Design Thesis,APEP
+ARCT40330,Thesis,APEP
+ARCT40490,Irish Designed Environment,APEP
+ARCT40520,Work Placement,APEP
+ARCT40530,Project Management,APEP
+ARCT40610,MArch Dissertation,APEP
+ARCT40660,"Street Life: Urban Design, an Introduction",APEP
+ARCT40680,Postgraduate Studio,APEP
+ARCT40690,Urban Design Studio,APEP
+ARCT40720,M.Arch.Sc Thesis(Urban design),APEP
+ARCT40760,Advanced Design Thesis,APEP
+ARCT40770,Construction Legislation (O/L),APEP
+ARCT40780,Procurement & Contracts (O/L),APEP
+ARCT40800,Architectural Practice (O/L),APEP
+ARCT40830,Integrated Landscape studio,APEP
+ARCT40840,MArchSc Thesis (Landscape),APEP
+ARCT40870,Agency: Design / Build,APEP
+ARCT40930,Computational Design,APEP
+ARCT40970,Irish Timber & Sustainability,APEP
+ARCT41010,Building Analysis Studio,APEP
+ARCT41020,Summer School for UCD & NCAD Students,APEP
+ARCT41100,Grad Teaching Assist in Arch,APEP
+ARCT41120,Architectural Design VII,APEP
+ARCT41130,Reflective Portfolio Module,APEP
+ARCT41170,Research Methods and Thesis Preparation,APEP
+ARCT41180,Design Thesis 2,APEP
+ARCT41190,Design Thesis 1,APEP
+ARCT41210,Architecture in a Climate Emergency,APEP
+ARCT41230,Linked Research Project,APEP
+ARCT41240,Urban Resilience and Ethics,APEP
+ARCT41260,Climate Carbon Cities Change,APEP
+ARCT41270,Retrofit Existing Buildings,APEP
+ARCT41280,Climate Carbon Cities Change,APEP
+ENVP10010,Environment Change & Policy ,APEP
+ENVP10030,Environmental Economics,APEP
+ENVP20020,Case Studies Environmental Pol,APEP
+ENVP30010,Environmental Management,APEP
+ENVP30030,Climate Policy and Politics,APEP
+ENVP40020,European Environmental Policy,APEP
+ENVP40030,Environmental Policy Thesis,APEP
+ENVP40040,Tools for Sust Development,APEP
+ENVP40070,Research for Environmental Policy,APEP
+ENVP40100,Environmental Economics & Climate Policy,APEP
+ENVP40160,Internship,APEP
+ENVP40170,Research for Environmental Pol,APEP
+ENVP40180,European Environmental Policy,APEP
+ENVP40190,Applications of Enviro Policy,APEP
+ENVP40200,Environmental Risk & Behaviour,APEP
+ENVP40230,Environmental Economics,APEP
+ENVP40240,Environment and Development,APEP
+ENVP50010,From PhD to Research Career,APEP
+ENVP50020,Big Data Research Applications,APEP
+ENVP50030,Behavioural Public Policy,APEP
+LARC10050,Landscape Studio 1A,APEP
+LARC10090,Landscape studio 1B,APEP
+LARC10100,Understanding Landscape II,APEP
+LARC10110,Understanding Landscape I ,APEP
+LARC10120,Plants&Landscape Architecture,APEP
+LARC20150,Landscape Studio 2A,APEP
+LARC20160,Landscape Studio 2B,APEP
+LARC20170,Landscape Theory and History ,APEP
+LARC30120,Landscape Studio 3B,APEP
+LARC30140,Site Specific Design 2,APEP
+LARC30150,Landscape Studio 3 A,APEP
+LARC30170,Site Specific Design 1,APEP
+LARC30220,Landscape Architecture Internship,APEP
+LARC30230,Landscape Architecture Internship â€“ Short,APEP
+LARC40360,Landscape Studio 4 B,APEP
+LARC40370,Landscape Design Competition 2,APEP
+LARC40390,Landscape Studio 4A,APEP
+LARC40420,Landscape Research 1,APEP
+LARC40430,Landscape Studies: Major Essay,APEP
+LARC40450,Landscape Architectural Thesis,APEP
+LARC40510,Landscape Study I ,APEP
+LARC40520,Landscape Study II ,APEP
+LARC40540,Rural and Landscape Planning,APEP
+LARC40550,Building Biodiversity: nature as Builder,APEP
+LARC40600,Landscape Research 3,APEP
+LARC40610,Tools for Sust Development,APEP
+LARC40620,Climate Policy and Politics,APEP
+PLAN10010,Introduction to Spatial Planning,APEP
+PLAN10020,History of City Planning,APEP
+PLAN10030,Urban Design,APEP
+PLAN10040,Research methods,APEP
+PLAN10080,Planning and Development Studio,APEP
+PLAN10090,Research Methods,APEP
+PLAN20010,Community Development and Planning,APEP
+PLAN20020,Introduction to GIS,APEP
+PLAN20030,Local Planning Studio,APEP
+PLAN20040,Urban & Regional Economics,APEP
+PLAN20070,Smart Cities,APEP
+PLAN20080,"Rural Change, Dev.& Plan.",APEP
+PLAN20090,Socio-Spatial Dynamics,APEP
+PLAN30010,"Transport, Environment & Sustainability",APEP
+PLAN30020,Placemaking: Urban and Rural Design,APEP
+PLAN30030,Rural & Landscape Planning,APEP
+PLAN30040,"Planning, Society and Diversity",APEP
+PLAN30060,Regional Innovation,APEP
+PLAN30080,Energy Transitions,APEP
+PLAN30150,Planning Law,APEP
+PLAN40010,Planning Methodology,APEP
+PLAN40020,Placemaking: Urban and Rural Design,APEP
+PLAN40030,"Planning, Society and Diversity",APEP
+PLAN40040,Rural & Landscape Planning,APEP
+PLAN40050,"Transport, Environment & Sustainability",APEP
+PLAN40060,Urban and Regional Development,APEP
+PLAN40070,Housing Policy and Planning,APEP
+PLAN40080,Economic and Property Markets,APEP
+PLAN40090,"Leadership, Project and Development Management",APEP
+PLAN40100,International Specialist Studies 1 (Chic),APEP
+PLAN40110,International Specialist Studies 2 (Chic),APEP
+PLAN40120,International Specialist Studies 3 (Chic),APEP
+PLAN40140,Urban Design Studio,APEP
+PLAN40160,Planning Studio: Plan Making,APEP
+PLAN40170,MRUP Dissertation,APEP
+PLAN40200,Nature-Based Solutions,APEP
+PLAN40210,Design Thesis,APEP
+PLAN40220,Geographical Information Systems for Policy and Planning,APEP
+PLAN40230,Governing Nature,APEP
+PLAN40240,Thesis,APEP
+PLAN40280,Design Thesis (pathway),APEP
+PLAN40290,Capstone Research Project,APEP
+PLAN40300,Urban Design Studio,APEP
+PLAN40330,Research Design & Methods,APEP
+PLAN40340,"Planning, Environ & Public Pol",APEP
+PLAN40350,Advanced GIS,APEP
+PLAN40390,Sustainable Cities,APEP
+PLAN40420,Planning Pract Internshp 20crs,APEP
+PLAN40430,Int Specialist Studies 1(Chic),APEP
+DSCY10070,Materials in Society,MME
+MEEN10030,Mechanics for Engineers,MME
+MEEN10050,Energy Engineering,MME
+MEEN20010,Mechanics of Fluids I,MME
+MEEN20020,Manufacturing Engineering I,MME
+MEEN20030,Applied Dynamics I,MME
+MEEN20040,Mechanics of Solids I,MME
+MEEN20050,Heat Transfer,MME
+MEEN20060,Mechanical Engineering Design I,MME
+MEEN20070,Materials Science and Eng. I,MME
+MEEN30010,Applied Dynamics II,MME
+MEEN30020,Mechanics of Solids II,MME
+MEEN30030,Mechanical Engineering Design II,MME
+MEEN30040,Measurement & Instrumentation,MME
+MEEN30090,Materials Science and Engineering II,MME
+MEEN30100,Engineering Thermodynamics II,MME
+MEEN30130,Energy Systems in Buildings I,MME
+MEEN30140,Professional Engineering (Finance),MME
+MEEN30160,Biofluids,MME
+MEEN30170,Introduction to Engineering Research,MME
+MEEN30180,Prof. Eng. Project (Mech),MME
+MEEN40010,Engineering Thermodynamics III,MME
+MEEN40020,Mechanics of Fluids II,MME
+MEEN40030,Manufacturing Engineering II,MME
+MEEN40050,Computational Continuum Mechanics I,MME
+MEEN40060,Fracture Mechanics,MME
+MEEN40080,Technical Ceramics,MME
+MEEN40090,Energy Systems and Climate Change,MME
+MEEN40110,Advanced Polymer Engineering,MME
+MEEN40140,Mechanical Engineering Project,MME
+MEEN40150,Computational Continuum Mechanics II,MME
+MEEN40160,Materials Thermodynamics and Kinetics,MME
+MEEN40170,Mechanics of Solids III,MME
+MEEN40190,Mechanics of Fluids III,MME
+MEEN40200,Energy Systems in Buildings II,MME
+MEEN40230,ME Mechanical Thesis,MME
+MEEN40250,Design and Innovation,MME
+MEEN40260,Eng. Operations Management,MME
+MEEN40270,Quality Management,MME
+MEEN40280,Operations Strategy,MME
+MEEN40300,Business System Design,MME
+MEEN40310,Project Management,MME
+MEEN40330,Economics,MME
+MEEN40360,Decision Analysis,MME
+MEEN40430,Professional Engineering (Management),MME
+MEEN40530,ME Professional Work Experience,MME
+MEEN40540,ME Professional Work Experience,MME
+MEEN40550,ME (Energy) Research Project Summer,MME
+MEEN40560,Research Skills and Techniques,MME
+MEEN40570,ME (Energy) Research Project,MME
+MEEN40600,Medical Device Design,MME
+MEEN40620,Biomechanics,MME
+MEEN40630,Biomaterials ,MME
+MEEN40660,ME Mechanical Thesis,MME
+MEEN40670,Technical Communication,MME
+MEEN40700,ME Mechanical Thesis,MME
+MEEN40710,ME Mech Prof. Work Exp. (Shor),MME
+MEEN40720,ME Mech Prof. Work Exp. (Long),MME
+MEEN40730,Engineering Cost Analysis,MME
+MEEN40740,ME MSE Project,MME
+MEEN40750,ME MSE PWE (Short),MME
+MEEN40760,ME MSE PWE (Long),MME
+MEEN40780,Materials Thesis,MME
+MEEN40790,Supply Chain Design & Analysis,MME
+MEEN40800,Engineering Project Management,MME
+MEEN40810,Design & Innovation I,MME
+MEEN40820,Technical Comms (Online),MME
+MEEN40830,Marketing for Engineering Managers,MME
+MEEN40840,Design and Innovation II,MME
+MEEN40850,Research Methods for Engineering Management,MME
+MEEN40880,Research Paper (MEngSc in Engineering Management),MME
+MEEN40890,Project (MEngSc Materials),MME
+MEEN40900,"Energy, Climate and Sustainability (online)",MME
+MEEN40910,Teaching Assistant in MME,MME
+MEEN40930,Professional Work Placement,MME
+MEEN40940,Corporate Entrepreneurship (Intra-preneurship) for Engineering Managers,MME
+MEEN40950,Managing Negotiations,MME
+MEEN40960,Research Methodologies,MME
+MEEN40970,Applied Research Methods,MME
+MEEN40980,Text into Praxis,MME
+MEEN41020,Design & Innovation,MME
+MEEN41030,Applied Research Project,MME
+MEEN41050,Professional Work Experience,MME
+MEEN41060,MEM Applied Research Project,MME
+MEEN41070,Introduction to Manufacturing Simulation and Robotics,MME
+MEEN41080,ME Eng. with Business Thesis,MME
+MEEN41090,Eng. Decision Support Systems,MME
+MEEN41100,Operations Management,MME
+MEEN41110,Project Management Cases,MME
+MEEN41120,Systems Analysis & Improvement,MME
+MEEN41130,Cases in Supply Chain Design,MME
+MEEN41140,ME Business Technical Project,MME
+MEEN41150,Advanced Metals Processing,MME
+MEEN41160,Musculoskeletal Biomechanics and Mechanobiology,MME
+MEEN41170,Medical Device Design,MME
+MEEN41180,Polymer Micro/Nano Moulding and Forming,MME
+MEEN41190,Sys. Anal. & Improv. (EITM),MME
+MEEN41200,Master Thesis (EITM),MME
+MEEN41310,Engineering DSS Projects,MME
+MEEN50020,Six-Sigma Quality Management,MME
+MEEN50050,Creative Thinking & Innovation,MME
+MEEN50060,Research Techniques Space Eng,MME
+MEEN50070,Industrial Research I,MME
+MEEN50080,Industrial Research II,MME
+MEEN50090,Industrial Research III,MME
