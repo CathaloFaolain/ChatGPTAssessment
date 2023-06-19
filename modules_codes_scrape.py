@@ -82,7 +82,7 @@ for s in schools:
     # all hyperlinks from the page are returned - find only module hyperlinks
     start = tags.index("Help")  # Help always comes before first module
     end = tags.index("PDF")  # PDF always comes after last module
-    for t in range(start+1, end-2):
+    for t in range(start+1, end):
         # remove items from list that are not modules
         if tags[t] == "See Video" or tags[t] == "See sample lesson":
             del tags[t]
