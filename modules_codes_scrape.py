@@ -57,7 +57,16 @@ schools = [ # "S142", # School of Agriculture and Food Science
             # "S108", # Irish Institute for Chinese Studies
             # "S134", # Teaching and Learning
             # "S062"  # UCD Global
-            ]
+]
+
+school_dict = {
+    "S143": "APEP",
+    "S144": "BFE",
+    "S009": "CBE",
+    "S145": "CE",
+    "S146": "EEE",
+    "S147": "MME"
+}
 
 # for each school named above, obtain modules based in each school
 for s in schools:
@@ -88,6 +97,6 @@ for s in schools:
     df = pd.DataFrame.from_dict(mod_list, orient="index")
     
     dir_out=Path.Path("Datasets")
-    filename= s+".csv"
+    filename= "MODULES_{}.csv".format(school_dict[s])
     df.to_csv(dir_out / filename)
 
