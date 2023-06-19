@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import pathlib as Path
 
 # list of school codes used in requests
 schools = [ # "S142", # School of Agriculture and Food Science
@@ -85,5 +86,8 @@ for s in schools:
             continue
     # convert dictionary to data frame and save dataframe as csv
     df = pd.DataFrame.from_dict(mod_list, orient="index")
-    df.to_csv(s+".csv")
+    
+    dir_out=Path.Path("Datasets")
+    filename= s+".csv"
+    df.to_csv(dir_out / filename)
 
