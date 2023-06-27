@@ -5,3 +5,4 @@ plotly
 pathlib
 ipywidgets
 voila
+openpyxl
