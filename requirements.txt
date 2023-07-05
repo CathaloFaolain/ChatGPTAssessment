@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib 
+plotly
+pathlib
+ipywidgets
+voila
+openpyxl
